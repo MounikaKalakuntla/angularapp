@@ -12,6 +12,7 @@ import { RecipelistComponent } from './recipes/recipelist/recipelist.component';
 import { RecipeitemComponent } from './recipes/recipeitem/recipeitem.component';
 import { RecipedetailsComponent } from './recipes/recipedetails/recipedetails.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
